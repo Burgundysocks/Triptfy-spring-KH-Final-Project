@@ -5,7 +5,15 @@ Tripfy는 사용자 개인이 가이드가 되어 자신의 여행 코스를 패
 ## 기술스택
 
 ### 언어
-HTML, CSS, JavaScript, Java
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+###
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+### 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burgundysocks)
 
 ### 프론트엔드
 Spring(Tymeleaf)
@@ -23,13 +31,13 @@ MySQL
 ### 2024.05.10 ~ 2024.06.14 (5주)
 
 ## 구현기능
-#### ● 패키지 등록(타임라인생성 제외), 조회, 수정, 삭제
-#### ● 패키지 결제(부트페이 api 활용)
+ ● 패키지 등록(타임라인생성 제외), 조회, 수정, 삭제
+ ● 패키지 결제(부트페이 api 활용)
 
 ## 미구현 기능
-#### ● 채팅에 있어서 오류 발생
-#### ● 공공데이터 활용 여행지 추천 부가기능 추가 실패
-#### ● 결제 취소시 api연동 자동 환불기능
+● 채팅에 있어서 오류 발생
+● 공공데이터 활용 여행지 추천 부가기능 추가 실패
+● 결제 취소시 api연동 자동 환불기능
 
 
 # 사용법
