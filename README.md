@@ -4,49 +4,88 @@
 #### Tripfy는 사용자 개인이 가이드가 되어 자신의 여행 코스를 패키지로 다른 사용자들에게 판매가 가능하고,
 #### 커뮤니티 기능으로 동행을 구하거나 여러 정보를 공유할 수 있는 사이트입니다.
 
-## 기술스택
+## Main Color
 
-### 언어
+![스크린샷 2024-06-26 오후 12 20 09](https://github.com/Burgundysocks/final-project/assets/136434305/678bc1cf-7867-4db8-85ba-1a6c7132b54d)
+
+## Tech-Stack
+
+### 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-###
+### 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+### Tool
+![visualstudiocode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-thebadge&logo=visual%20studio%20code&logoColor=white)
+![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white)
 
 ### 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burgundysocks)
 
-### 프론트엔드
-Spring(Tymeleaf)
+### Front-end
+![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+(Tymeleaf)
 
-### 백엔드
-Spring/ SpringBoot
+### Back-end
+![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### 데이터베이스
-MySQL
+### DataBase
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 함께한 사람들
+## Team
 박기호(팀장) 박민수 유성휘 최영환 정상현
 
-## 개발기간
+## Period
 ### 2024.05.10 ~ 2024.06.14 (5주)
 
-## 구현기능
+## Main function
+#### ● 패키지 작성
+![스크린샷 2024-06-26 오후 12 22 02](https://github.com/Burgundysocks/final-project/assets/136434305/1077696a-05b2-4fc5-8057-839bb4d091bc)
+
+####  ● 게시판
+![게시판1(주요기능 및 화면)](https://github.com/Burgundysocks/final-project/assets/136434305/0c710d3c-174d-4f6c-a4f2-2a215c0b1f6f)
+![게시판2(주요기능 및 화면)](https://github.com/Burgundysocks/final-project/assets/136434305/f233e66b-9771-4df7-8dd0-2f201a179285)
+1. 게시글 정렬
+
+2. 키워드(지역) 검색
+
+3. 키워드 검색
+
+4. 여행 후기 및 동행 관련 게시글 목록
+
+
+## My Role
 #### ● 패키지 등록(타임라인생성 제외), 조회, 수정, 삭제
+![스크린샷 2024-06-26 오후 12 22 02](https://github.com/Burgundysocks/final-project/assets/136434305/1077696a-05b2-4fc5-8057-839bb4d091bc)
+국내/해외 -> 지역 -> 여행기간 -> 간단 소개글 작성 -> 인원 수 및 가격 -> 사진 등록순 으로 진행되는 모달 창
+
 #### ● 패키지 결제(부트페이 api 활용)
+![스크린샷_2024-06-24_오후_5 16 22](https://github.com/Burgundysocks/final-project/assets/136434305/959b511b-dffa-4a3f-b287-cb7b7fae45c2)
+![스크린샷_2024-06-09_오후_5 06 46](https://github.com/Burgundysocks/final-project/assets/136434305/8bd30cd1-25fe-4566-aba4-4daf37ffc571)
 
-## 미구현 기능
-#### ● 채팅에 있어서 오류 발생
-#### ● 공공데이터 활용 여행지 추천 기능
-#### ● 결제 취소시 api연동 자동 환불기능
-#### ● 기타 소셜앱 로그인(개인정보문제)
-#### ● 본인인증 시스템(PASS) (개인정보 문제)
+부트페이 api를 이용하여 패키지를 결제한 이용자의 정보 및 결제 가격, 결제 수단 DB 및 부트페이 관리자 페이지저장
 
 
-# 사용법
+
+
+## 프로젝트 미구현 기능
+#### ● 채팅 오류 - 채팅이 일정량 이상 쌓이면 에러가 발생
+#### ● 여행지 추천 - 공공데이터 활용으로 국내 여행지 추천 페이지
+#### ● 자동환불 - 결제 취소시 부트페이 관리자 페이지에서 자동 환불
+#### ● 소셜 로그인 - 카카오, 네이버, 구글 등 소셜아이디 로그인(개인정보 관련 이슈)
+#### ● 본인 인증  - Pass본인인증(개인정보 관련이슈)
+
+
+# How to use
 ## 1. sts, lombok 설치
-Tripfy는 sts, mysql를 이용해 개발했어요
+Tripfy는 sts, mysql를 이용해 개발
+Maven을 이용해 만든 프로젝트
 
 ## 2. 파일, 디렉토리 세팅
 #### application.properties line:3 dataSource설정에서 사용하시려는 데이터베이스 정보를 입력해주세요
