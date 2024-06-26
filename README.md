@@ -25,9 +25,6 @@
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white)
 
-### 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burgundysocks)
-
 ### Front-end
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 (Tymeleaf)
